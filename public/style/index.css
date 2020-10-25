@@ -1,0 +1,8 @@
+.alert-error{
+    color: white;
+    background: rgb(251, 134, 0);
+}
+.alert-success_msg{
+    color: white;
+    background: rgb(5, 155, 155);
+}
