@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "https://github.com/yusuf591-cpu/Musicwebsite.nodejs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/yusuf591-cpu/Musicwebsite.nodejs.git"
   },
-  "homepage": "https://github.com/",
+  "homepage": "https://github.com/yusuf591-cpu",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
